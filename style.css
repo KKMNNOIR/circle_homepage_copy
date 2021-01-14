@@ -1,0 +1,32 @@
+ul {
+    width: 220px;
+    list-style-type: none;
+    background-color:rgba(223, 84, 69, 0.8);
+    border-bottom: dashed 1px #ffffff;
+    padding-left: 0px;
+}
+
+li a{
+    color: #fff;
+    text-shadow: 1px 1px 3px #000;
+}
+
+li {
+    height: 33px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom: dashed 1px #ffffff;
+    margin-left: 0px;
+    padding-right: 20px;
+}
+
+#tweet {
+    width: 180px;
+    padding: 20px;
+    background-color:rgba(223, 84, 69, 0.8);
+}
+
+.main {
+    width: 990px;
+    margin: auto;
+}
